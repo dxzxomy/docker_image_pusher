@@ -1,4 +1,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-library/golang:1.21.4-slim
+mariadb:10.4.12
